@@ -1,0 +1,43 @@
+
+
+
+7. Criação de um programa para ler e imprimir um pedido de compra.
+
+a) Dentro da pasta pratica04, crie um novo arquivo clicando no ícone New File.
+
+b) Nomeie o arquivo como leia_pedido.c e pressione ENTER para confirmar.
+
+c) No arquivo leia_pedido.c, insira a estrutura básica de um programa C.
+
+d) No corpo da função main(), declare uma variável produto do tipo caractere contendo 21 caracteres, uma variável quantidade do tipo inteiro e uma variável valor do tipo flutuante.
+
+e) No corpo da função main(), utilize a função scanf() para ler cada uma das variáveis.
+
+f) No corpo da função main(), utilize a função printf() para imprimir uma nota legal conforme leiaute abaixo, usando os formatos %s, %i e %f,
+
+==============================
+         P E D I D O
+==============================
+Produto         Qtd Valor Unit  
+Camiseta        002      39.99
+==============================
+
+g) Na aba Shell, compile o arquivo leia_pedido.c usando o comando gcc.
+
+h) Execute o programa a.out gerado pela compilação.
+
+
+8. Envio de alterações locais para repositório remoto do GitHub.
+
+a) No painel esquerdo do Replit, clique em Tools e selecione Git.
+
+b) Verifique a lista de arquivos modificados. Se estiverem corretos, clique em + Stage All.
+
+c) No campo Message, insira o texto "Adicionando arquivos da pratica04".
+
+d) Clique em Stage and commit all changes.
+
+e) Para enviar as alterações para o repositório remoto, clique em Push e em seguida em Confirm for this session.
+
+f) Atualize a página do repositório do GitHub no navegador para verificar se as alterações foram enviadas.
+
